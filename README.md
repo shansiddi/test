@@ -1,3 +1,3 @@
 Readme
 
-![](pictures/forest.png)
+![](./pictures/forest.png)
